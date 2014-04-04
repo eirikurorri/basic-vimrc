@@ -1,7 +1,7 @@
 basic-vimrc
 ===========
 
-Quick and dirty vimrc for throwing into virtual machines or servers.
+Quick and dirty vimrc to throw into fresh virtual machines.
 
 Instructions:
 --------------
